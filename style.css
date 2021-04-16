@@ -7,7 +7,7 @@ h1{
     border:solid;
 }
 .header{
-    background-color: cadetblue;
+    background-color: white;
     display:flex;
     justify-content: space-between;
 }
